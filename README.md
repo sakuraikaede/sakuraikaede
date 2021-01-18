@@ -1,16 +1,21 @@
-### Hi there 👋
+### ✨Hi,this is Sakurai Kaede.✨
 
-<!--
-**sakuraikaede/sakuraikaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
++ 📔 A normal student in China.  
++ 🐱 Probably a cat,meow.
++ 🙁 A useless person.
++ ❌ NOT cute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Where you can find me:
+
++ Twitter: [@5akurai_kaede](https://twitter.com/5akurai_kaede)
++ Telegram: [@sakurai_kaede](https://t.me/sakurai_kaede)
++ E-mail: [sakurai.kaede@outlook.com](mailto:sakurai.kaede@outlook.com)
+
+More about me:
+
++ Personal Page: [sakuraikaede.moe](https://sakuraikaede.moe)
++ Blog: [sakurai.in](https://sakurai.in)
+
+Wish you can be young forever.
