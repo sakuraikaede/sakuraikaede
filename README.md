@@ -15,7 +15,7 @@ Where you can find me:
 
 More about me:
 
-+ Personal Page: [sakuraikaede.moe](https://sakuraikaede.moe)
++ Personal Page: [s-k.moe](https://s-k.moe/)
 + Blog: [sakurai.in](https://sakurai.in)
 
 Wish you can be young forever.
