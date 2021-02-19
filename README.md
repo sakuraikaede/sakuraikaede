@@ -19,3 +19,9 @@ More about me:
 + Blog: [sakurai.in](https://sakurai.in)
 
 Wish you can be young forever.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakuraikaede&layout=compact&bg_color=252a34&text_color=eaeaea&title_color=ff2e63)](https://github.com/anuraghazra/github-readme-stats)
+
+![Sakurai Kaede's github stats](https://github-readme-stats.vercel.app/api?username=sakuraikaede&show_icons=true&bg_color=252a34&text_color=eaeaea&title_color=ff2e63&icon_color=08d9d6&count_private=true)
+
+
